@@ -7,4 +7,4 @@ make && make install
 
 #glad 
 https://glad.dav1d.de  
-cp .h to include
+cp *.h  /usr/local/include
